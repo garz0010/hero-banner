@@ -23,7 +23,6 @@ body {
 
 .content h2 {
   font-size: 4rem;
-  font-style: bold;
   background-color: rgba(0, 0, 0, .5);
   color: #fff;
 }
@@ -31,7 +30,7 @@ body {
 .content p{
   font-size: 2rem;
   font-style: italic;
-  max-height: 1.5rem;
+  max-height: 50%
 }
 
 .banner {
