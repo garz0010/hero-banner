@@ -38,7 +38,7 @@ body {
   height: 500px;
 }
 
-.banner img {
+.img-flex {
   width: 100%;
   display: flex;
 }
