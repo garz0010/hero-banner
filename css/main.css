@@ -39,5 +39,5 @@ body {
 
 .img-flex {
   width: 100%;
-  display: flex;
+  display: block;
 }
