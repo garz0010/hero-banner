@@ -13,9 +13,12 @@ body {
 
 .content {
   position: absolute;
+  left: 50%
+  transform: translateX(-50%);
   bottom: 0;
   width: 50em;
   overflow: hidden;
+
 }
 
 .content h2 {
