@@ -15,6 +15,7 @@ body {
   position: absolute;
   bottom: 0;
   width: 50em;
+  overflow: hidden;
 }
 
 .content h2 {
