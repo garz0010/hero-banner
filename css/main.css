@@ -41,4 +41,5 @@ body {
 .banner img {
   width: 100%;
   display: flex;
+  max-height: 1.5rem;
 }
