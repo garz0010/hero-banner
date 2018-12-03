@@ -16,26 +16,34 @@ body {
   left: 50%;
   transform: translateX(-50%);
   bottom: 0;
-  width: 50em;
-  overflow: hidden;
+  width: 100%;
+  padding: 0 1.25em;
+  max-width: 50em;
 }
 
 .content h2 {
   font-size: 4rem;
   background-color: rgba(0, 0, 0, .5);
   color: #fff;
-  margin: 0 auto;
+  display: inline;
+  padding: 1px;
 }
 
 .content p {
   font-size: 2rem;
   font-style: italic;
   max-height: 50%;
+  margin-top: 0;
+}
+
+.title {
+  margin-bottom: 24px;
 }
 
 .banner {
   position: relative;
-  height: 500px;
+  max-height: 500px;
+  overflow: hidden;
 }
 
 .img-flex {
