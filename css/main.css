@@ -30,7 +30,7 @@ body {
 .content p{
   font-size: 2rem;
   font-style: italic;
-  max-height: 50%
+  max-height: 50%;
 }
 
 .banner {
