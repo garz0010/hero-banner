@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -27,6 +28,7 @@ body {
   color: #fff;
   display: inline;
   padding: 1px;
+  line-height: 1.4;
 }
 
 .content p {
