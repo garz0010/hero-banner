@@ -27,7 +27,6 @@ body {
   background-color: rgba(0, 0, 0, .5);
   color: #fff;
   display: inline;
-  padding: 1px;
   line-height: 1.4;
 }
 
@@ -39,7 +38,7 @@ body {
 }
 
 .title {
-  margin-bottom: 24px;
+  margin-bottom: 6px;
 }
 
 .banner {
