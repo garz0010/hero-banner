@@ -24,6 +24,7 @@ body {
 
 .content h2 {
   font-size: 4rem;
+  font-weight: 700;
   background-color: rgba(0, 0, 0, .5);
   color: #fff;
   display: inline;
