@@ -34,11 +34,7 @@ body {
   font-size: 2rem;
   font-style: italic;
   max-height: 50%;
-  margin-top: 0;
-}
-
-.title {
-  margin-bottom: 9px;
+  margin-top: 10px;
 }
 
 .banner {
